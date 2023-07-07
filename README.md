@@ -22,7 +22,7 @@
    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 <br>
-<h3>Meu Portifólio: <a href="https://shockraa.github.io/Portifolio/"></a></h3>
+<h3>Meu Portifólio: <a href="https://shockraa.github.io/Portifolio/">https://shockraa.github.io/Portifolio/</a></h3>
 
   </div>
  </div>
