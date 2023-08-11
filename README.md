@@ -4,7 +4,6 @@
  <div align="center">
   <div>
   <!--<img align="center" src="https://i.pinimg.com/originals/74/85/c8/7485c8aae2394ff3106cd740b65a8d85.gif" alt="GIF">-->
-  <br>
    <h2>Utilizo:</h2>
    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
