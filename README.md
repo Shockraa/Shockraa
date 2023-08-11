@@ -22,7 +22,6 @@
 </div>
 
 <br>
-<br>
 
 <div align="center">
  <h2>Stats:</h2>
