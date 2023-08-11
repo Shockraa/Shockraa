@@ -27,6 +27,7 @@
  <a href="https://github.com/Shockraa">
  <img height="184em" src="https://github-readme-stats.vercel.app/api?username=Shockraa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
  <img height="184em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shockraa&layout=compact&langs_count=6&theme=tokyonight">
+  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64cad6f40d755ccbebd26ed2?variant=dark&roadmaps=frontend%2Cbackend%2Cjavascript%2Caspnet-core" alt="roadmap.sh"/></a>
   <br>
   <h3>Meu Portifólio: <a href="https://shockraa.github.io/Portifolio/">https://shockraa.github.io/Portifolio/</a></h3>
 </div>
