@@ -1,9 +1,10 @@
 <h1 align="center">Bem-vindo ao meu perfil 🌙</h1>
-<img align="center" src="https://i.pinimg.com/originals/74/85/c8/7485c8aae2394ff3106cd740b65a8d85.gif" alt="GIF">
-<br>
+
 <div align="center">
  <div align="center">
   <div>
+  <img align="center" src="https://i.pinimg.com/originals/74/85/c8/7485c8aae2394ff3106cd740b65a8d85.gif" alt="GIF">
+  <br>
    <h1>Utilizo:</h1>
    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
