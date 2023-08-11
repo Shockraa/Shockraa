@@ -3,7 +3,7 @@
 <div align="center">
  <div align="center">
   <div>
-  <img align="center" src="https://i.pinimg.com/originals/74/85/c8/7485c8aae2394ff3106cd740b65a8d85.gif" alt="GIF">
+  <!--<img align="center" src="https://i.pinimg.com/originals/74/85/c8/7485c8aae2394ff3106cd740b65a8d85.gif" alt="GIF">-->
   <br>
    <h2>Utilizo:</h2>
    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -24,7 +24,6 @@
 <br>
 
 <div align="center">
- <h2>Stats:</h2>
  <a href="https://github.com/Shockraa">
  <img height="184em" src="https://github-readme-stats.vercel.app/api?username=Shockraa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
  <img height="184em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shockraa&layout=compact&langs_count=6&theme=tokyonight">
