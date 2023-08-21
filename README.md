@@ -1,25 +1,19 @@
 <h1 align="center">Bem-vindo ao meu perfil 🌙</h1>
+<h3 align="center">Eu sou estudante em desenvolvimento de sistemas.</h3>
+<h3 align="center">Meu Portifólio: <a href="https://shockraa.github.io/Portifolio/">https://shockraa.github.io/Portifolio/</a></h3>
+<p align="center"><img align="center" src="https://i.pinimg.com/originals/74/85/c8/7485c8aae2394ff3106cd740b65a8d85.gif" alt="GIF"></p>
 <br>
-<div align="center">
- <div align="center">
-  <div>
-  <!--<img align="center" src="https://i.pinimg.com/originals/74/85/c8/7485c8aae2394ff3106cd740b65a8d85.gif" alt="GIF">-->
-   <h2>Utilizo:</h2>
-   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </div>
 
-  <div><br>
-   <h2>Aprendendo:</h2>
-   <img align="center" alt="Csharp" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  </div>
- </div>
+<h3 align="left">Linguagens e ferramentas que utilizo:</h3>
+ <p align="left">  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> </p>
 
-</div>
-<br>
+
+<h3 align="left">Estou aprendendo:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Frameworks:</h3>
+<p align="left"> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a></p>
+
 <br>
 
 <div align="center">
@@ -29,9 +23,5 @@
 <br>
   <br>
   <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64cad6f40d755ccbebd26ed2?variant=dark&roadmaps=frontend%2Cbackend%2Cjavascript%2Caspnet-core" alt="roadmap.sh"/></a>
-  <br>
-  <br>
-  <h3>Meu Portifólio: <a href="https://shockraa.github.io/Portifolio/">https://shockraa.github.io/Portifolio/</a></h3>
 </div>
-
 
