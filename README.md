@@ -1,7 +1,7 @@
 <h1 align="center">Bem-vindo ao meu perfil 🌙</h1>
 <h3 align="center">Eu sou estudante em desenvolvimento de sistemas.</h3>
 <h3 align="center">Meu Portifólio: <a href="https://shockraa.github.io/Portifolio/">https://shockraa.github.io/Portifolio/</a></h3>
-<!-- <p align="center"><img align="center" src="https://i.pinimg.com/originals/74/85/c8/7485c8aae2394ff3106cd740b65a8d85.gif" alt="GIF"></p> -->
+<p align="center"><img align="center" src="https://i.pinimg.com/originals/74/85/c8/7485c8aae2394ff3106cd740b65a8d85.gif" alt="GIF"></p>
 <!-- Possivelmente mudar -->
 <br>
 <hr>
